@@ -8,6 +8,7 @@ Easy-i18n is a Go package and a command that helps you translate Go programs int
 
 # Package i18n
 
+
 The i18n package provides support for looking up messages according to a set of locale preferences.
 
 ```go
